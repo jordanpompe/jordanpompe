@@ -2,7 +2,7 @@
 
 # Jordan Pompe
 
-**AI & Automation Engineer · Télécom SudParis (Institut Polytechnique de Paris)**
+**AI Software Engineer · Télécom SudParis (Institut Polytechnique de Paris)**
 
 <br>
 
@@ -16,6 +16,6 @@
 
 ### About Me
 
-Engineering graduate from **Télécom SudParis** (Institut Polytechnique de Paris, 2025).
+AI Software Engineer working on AI systems, backend infrastructure and automation.
 
-I build AI systems end-to-end: **LLM-integrated backends**, **RAG pipelines**, and **production automation workflows**.
+I design and ship production-grade systems: LLM integrations, multi-service architectures, vector databases, AI agents and automated workflows that replace manual processes end-to-end.
