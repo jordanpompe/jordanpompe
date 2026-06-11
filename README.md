@@ -8,7 +8,6 @@
 
 [![Portfolio](https://img.shields.io/badge/jordanpompe.com-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jordanpompe.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-pompe)
-[![Email](https://img.shields.io/badge/pompejordan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pompejordan@gmail.com)
 
 </div>
 
